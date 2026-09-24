@@ -23,4 +23,4 @@ sustainability.
 - Tableau Public / Google Data Studio
 
 ## Dashboard
-- Tableau : https://public.tableau.com/views/EnergyConsumptionSustainabilityDashboard/EnergyConsumptionSustainabilityDashboard
+- Tableau Public: https://public.tableau.com/views/EnergyConsumptionSustainabilityDashboard/EnergyConsumptionSustainabilityDashboard
